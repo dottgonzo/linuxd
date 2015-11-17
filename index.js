@@ -1,6 +1,5 @@
 var find=require('find'),
 fs = require("fs").readFileSync,
-jsonlint = require("jsonlint"),
 readJson=require('read-json-file-sync'),
 exec=require('child_process').exec;
 pathExists=require('path-exists');

@@ -21,9 +21,6 @@
   },
   "dependencies": {
     "find": "^0.2.3",
-    "is-json": "^1.2.5",
-    "json-check": "^0.1.0",
-    "jsonlint": "^1.6.2",
     "path-exists": "^2.1.0",
     "read-json-file-sync": "^0.1.0"
   }
