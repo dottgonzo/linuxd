@@ -1,0 +1,30 @@
+{
+  "name": "linuxd",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dottgonzo/linuxd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dottgonzo/linuxd/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "verb": "^0.8.10"
+  },
+  "dependencies": {
+    "find": "^0.2.3",
+    "is-json": "^1.2.5",
+    "json-check": "^0.1.0",
+    "jsonlint": "^1.6.2",
+    "path-exists": "^2.1.0",
+    "read-json-file-sync": "^0.1.0"
+  }
+}
